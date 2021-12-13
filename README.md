@@ -1,1 +1,3 @@
-# EconomicAnalysis
+# Economic Data Analysis
+
+We preformed data analysis and data visualization on several economic data sets as well as the 2019 World Happiness data. We are trying to discover whether economic freedom or overall GDP is a better predictor of a countries happiness. Our data cleaning and analysis was conducted in Juptyer Notebooks with Python. We used tools such as Pathlib, Pandas, Numpy, regular expressions, and Folium. In this project we worked with both JSON files as well as CSV files. Within the project we worked with several data structures such as Pandas data frames, dictionaries, and dictionaries of dictionaries.
